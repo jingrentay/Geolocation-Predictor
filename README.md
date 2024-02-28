@@ -5,3 +5,5 @@ In model.py, we have revised multiple version of our ImageGPSModel to obtain bet
 However, the accuracy is not the most accurate in terms of precisions but it does guess a good range of latitude and longitude of the uploaded image compared to the actual latitude and longitude of the image.
 
 Contributer: Nick Kraabel, Julian Rangel, and Jing Ren Tay.
+
+Project of CPTS 437 class in Washington State University: Intro to Machine Learning.
